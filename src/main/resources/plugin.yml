@@ -1,0 +1,9 @@
+main: me.cadenwolfdog.cadenplugin.Caden
+name: caden
+version: '1.0'
+description: A test plugin
+load: POSTWORLD
+author: cadenwolfdog
+commands:
+  chooseclass:
+    description: A command to choose your class.
